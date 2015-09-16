@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:46:52.252306
 #+TITLE: 太上濟度章赦
-#+DATE: 2015-08-28 23:46:57
+#+PROPERTY: DZID  DZ0316
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，5—818 三卷 洞真部表奏類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
